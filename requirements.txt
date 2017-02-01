@@ -1,0 +1,6 @@
+Django
+MySQL-python
+django-rest-multiple-models
+djangorestframework
+markdown
+django-filter
